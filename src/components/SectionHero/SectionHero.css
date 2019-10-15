@@ -137,6 +137,7 @@
   @apply --SectionHero_animation;
 
   animation-delay: 0.8s;
+  border-radius: 2px;
 
   @media (--viewportMedium) {
     display: block;
